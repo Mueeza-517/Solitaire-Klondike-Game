@@ -61,7 +61,7 @@ This project is licensed under the terms of the **[MIT License](LICENSE.md)**.
 ```bash
 # Clone repository
 git clone https://github.com/mueeza-517/Solitaire-Klondike-Game/
-cd -CSC200M24PID34 
+cd Solitaire-Klondike-Game
 open index.html
 
 
