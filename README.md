@@ -199,24 +199,3 @@ https://mueeza-517.github.io/Solitaire-Klondike-Game/
 
 
 
-open index.html
-
-
-The game is live at
-https://mueeza-517.github.io/Solitaire-Klondike-Game/
-
-
-
-
-
-
-open index.html
-
-
-The game is live at
-https://mueeza-517.github.io/Solitaire-Klondike-Game/
-
-
-
-
-
